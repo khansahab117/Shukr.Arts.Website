@@ -1,2 +1,2 @@
 # Shukr.Arts.Website
-Website portfolio for Shukr.arts 
+Template online ART store for my aunt.
